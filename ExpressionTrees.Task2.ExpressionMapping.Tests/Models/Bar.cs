@@ -2,6 +2,7 @@
 {
     internal class Bar
     {
-        // add here some other properties
+        public string ID { get; set; }
+        public int Weight { get; set; }
     }
 }

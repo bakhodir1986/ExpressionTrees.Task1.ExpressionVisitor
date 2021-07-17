@@ -2,6 +2,7 @@
 {
     internal class Foo
     {
-        // add here some properties
+        public string ID { get; set; }
+        public int Weight { get; set; }
     }
 }
